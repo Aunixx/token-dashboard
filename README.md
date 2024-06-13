@@ -16,7 +16,6 @@ The Token Dashboard is currently configured to work with the Ethereum blockchain
 ## Usage
 ### Connect Your Wallet:
   1) To log in, connect your Coinbase Wallet or MetaMask.
-  2) Follow the prompts to authenticate and grant necessary permissions.
 
 ### Search for Tokens:
 
