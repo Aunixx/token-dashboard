@@ -13,6 +13,29 @@ The Token Dashboard project is a comprehensive tool designed to help users manag
 ## Current Chain
 The Token Dashboard is currently configured to work with the Ethereum blockchain. All token addresses and related data should be fetched from the Ethereum network.
 
+## Getting Started 
+
+In the project directory, you can run:
+
+### Clone the repository:
+
+```
+git clone <repository_url>
+```
+
+### Install dependencies:
+
+```
+npm install
+```
+
+### Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+```
+npm start
+```
+
 ## Usage
 ### Connect Your Wallet:
   1) To log in, connect your Coinbase Wallet or MetaMask.
