@@ -12,7 +12,7 @@ const TokenSearch = ({ onSearch }) => {
     <div className="search-wrapper">
       <input
         type="text"
-        placeholder="Enter token address"
+        placeholder="Enter token address in Ethereum Chain"
         value={tokenAddress}
         onChange={(e) => setTokenAddress(e.target.value)}
       />
